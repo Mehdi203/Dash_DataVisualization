@@ -1,0 +1,186 @@
+[
+  {
+    "_id": 2,
+    "CreditCardId": 2,
+    "CCName": "AMEX",
+    "CCNumber": "12342324248393",
+    "CCExpiry": "2003-04-03T00:00:00.000Z",
+    "CustomerId": 123
+  },
+  {
+    "_id": 26,
+    "CreditCardId": 26,
+    "CCName": "AMEX",
+    "CCNumber": "33454212345651",
+    "CCExpiry": "2003-09-29T00:00:00.000Z",
+    "CustomerId": 127
+  },
+  {
+    "_id": 28,
+    "CreditCardId": 28,
+    "CCName": "AMEX",
+    "CCNumber": "3422343212433430",
+    "CCExpiry": "2003-07-19T00:00:00.000Z",
+    "CustomerId": 107
+  },
+  {
+    "_id": 30,
+    "CreditCardId": 30,
+    "CCName": "AMEX",
+    "CCNumber": "34458998784345",
+    "CCExpiry": "2002-08-22T00:00:00.000Z",
+    "CustomerId": 140
+  },
+  {
+    "_id": 31,
+    "CreditCardId": 31,
+    "CCName": "AMEX",
+    "CCNumber": "345433789979389",
+    "CCExpiry": "1999-11-05T00:00:00.000Z",
+    "CustomerId": 130
+  },
+  {
+    "_id": 41,
+    "CreditCardId": 41,
+    "CCName": "AMEX",
+    "CCNumber": "3522354387984530",
+    "CCExpiry": "2002-06-09T00:00:00.000Z",
+    "CustomerId": 106
+  },
+  {
+    "_id": 63,
+    "CreditCardId": 63,
+    "CCName": "AMEX",
+    "CCNumber": "632456487984533",
+    "CCExpiry": "2003-01-02T00:00:00.000Z",
+    "CustomerId": 142
+  },
+  {
+    "_id": 69,
+    "CreditCardId": 69,
+    "CCName": "AMEX",
+    "CCNumber": "78789007977999",
+    "CCExpiry": "2002-08-22T00:00:00.000Z",
+    "CustomerId": 104
+  },
+  {
+    "_id": 91,
+    "CreditCardId": 91,
+    "CCName": "AMEX",
+    "CCNumber": "904883289756439",
+    "CCExpiry": "2002-01-19T00:00:00.000Z",
+    "CustomerId": 133
+  },
+  {
+    "_id": 99,
+    "CreditCardId": 99,
+    "CCName": "Diners",
+    "CCNumber": "12093458976902",
+    "CCExpiry": "2002-11-02T00:00:00.000Z",
+    "CustomerId": 143
+  },
+  {
+    "_id": 123,
+    "CreditCardId": 123,
+    "CCName": "Diners",
+    "CCNumber": "24348343482482",
+    "CCExpiry": "2003-11-25T00:00:00.000Z",
+    "CustomerId": 109
+  },
+  {
+    "_id": 141,
+    "CreditCardId": 141,
+    "CCName": "Diners",
+    "CCNumber": "3749234924723790",
+    "CCExpiry": "2003-05-01T00:00:00.000Z",
+    "CustomerId": 128
+  },
+  {
+    "_id": 163,
+    "CreditCardId": 163,
+    "CCName": "Diners",
+    "CCNumber": "6788922940392940",
+    "CCExpiry": "2002-10-12T00:00:00.000Z",
+    "CustomerId": 139
+  },
+  {
+    "_id": 167,
+    "CreditCardId": 167,
+    "CCName": "Diners",
+    "CCNumber": "699834387984533",
+    "CCExpiry": "2003-01-04T00:00:00.000Z",
+    "CustomerId": 118
+  },
+  {
+    "_id": 169,
+    "CreditCardId": 169,
+    "CCName": "Diners",
+    "CCNumber": "7482794729742320",
+    "CCExpiry": "2002-04-12T00:00:00.000Z",
+    "CustomerId": 117
+  },
+  {
+    "_id": 185,
+    "CreditCardId": 185,
+    "CCName": "Diners",
+    "CCNumber": "8901128935238970",
+    "CCExpiry": "1999-10-20T00:00:00.000Z",
+    "CustomerId": 141
+  },
+  {
+    "_id": 201,
+    "CreditCardId": 201,
+    "CCName": "MC",
+    "CCNumber": "3424345432894320",
+    "CCExpiry": "2002-01-22T00:00:00.000Z",
+    "CustomerId": 120
+  },
+  {
+    "_id": 230,
+    "CreditCardId": 230,
+    "CCName": "VISA",
+    "CCNumber": "12122387984533",
+    "CCExpiry": "2003-12-13T00:00:00.000Z",
+    "CustomerId": 121
+  },
+  {
+    "_id": 239,
+    "CreditCardId": 239,
+    "CCName": "VISA",
+    "CCNumber": "2311240543980120",
+    "CCExpiry": "2002-11-03T00:00:00.000Z",
+    "CustomerId": 114
+  },
+  {
+    "_id": 243,
+    "CreditCardId": 243,
+    "CCName": "VISA",
+    "CCNumber": "23958389028923",
+    "CCExpiry": "2002-08-22T00:00:00.000Z",
+    "CustomerId": 119
+  },
+  {
+    "_id": 252,
+    "CreditCardId": 252,
+    "CCName": "VISA",
+    "CCNumber": "3456683343353430",
+    "CCExpiry": "2002-10-29T00:00:00.000Z",
+    "CustomerId": 135
+  },
+  {
+    "_id": 272,
+    "CreditCardId": 272,
+    "CCName": "VISA",
+    "CCNumber": "6543254233444530",
+    "CCExpiry": "2002-01-22T00:00:00.000Z",
+    "CustomerId": 122
+  },
+  {
+    "_id": 279,
+    "CreditCardId": 279,
+    "CCName": "VISA",
+    "CCNumber": "78789007977999",
+    "CCExpiry": "2002-08-22T00:00:00.000Z",
+    "CustomerId": 105
+  }
+]

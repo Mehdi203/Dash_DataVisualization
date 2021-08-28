@@ -1,0 +1,9 @@
+{"_id":"BSN","ClassId":"BSN","ClassName":"Business Class","ClassDesc":null}
+{"_id":"DBL","ClassId":"DBL","ClassName":"Double","ClassDesc":null}
+{"_id":"DLX","ClassId":"DLX","ClassName":"Delux","ClassDesc":null}
+{"_id":"ECN","ClassId":"ECN","ClassName":"Economy","ClassDesc":null}
+{"_id":"FST","ClassId":"FST","ClassName":"First Class","ClassDesc":null}
+{"_id":"INT","ClassId":"INT","ClassName":"Interior","ClassDesc":null}
+{"_id":"NA","ClassId":"NA","ClassName":"Not Applicable","ClassDesc":null}
+{"_id":"OCNV","ClassId":"OCNV","ClassName":"Ocean View","ClassDesc":null}
+{"_id":"SNG","ClassId":"SNG","ClassName":"Single","ClassDesc":null}

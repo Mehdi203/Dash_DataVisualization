@@ -1,0 +1,5 @@
+{"_id":{"$numberInt":"1"},"RewardId":{"$numberInt":"1"},"RwdName":"Air Miles","RwdDesc":null}
+{"_id":{"$numberInt":"2"},"RewardId":{"$numberInt":"2"},"RwdName":"AeroPlan","RwdDesc":null}
+{"_id":{"$numberInt":"3"},"RewardId":{"$numberInt":"3"},"RwdName":"AeroPlan Gold","RwdDesc":null}
+{"_id":{"$numberInt":"4"},"RewardId":{"$numberInt":"4"},"RwdName":"Coast Rewards","RwdDesc":null}
+{"_id":{"$numberInt":"5"},"RewardId":{"$numberInt":"5"},"RwdName":"Mariott Rewards","RwdDesc":null}

@@ -1,0 +1,10 @@
+{"_id":{"$numberInt":"1"},"ProductId":{"$numberInt":"1"},"ProdName":"Air"}
+{"_id":{"$numberInt":"2"},"ProductId":{"$numberInt":"2"},"ProdName":"Attractions"}
+{"_id":{"$numberInt":"3"},"ProductId":{"$numberInt":"3"},"ProdName":"Car rental"}
+{"_id":{"$numberInt":"4"},"ProductId":{"$numberInt":"4"},"ProdName":"Cruise"}
+{"_id":{"$numberInt":"5"},"ProductId":{"$numberInt":"5"},"ProdName":"Hotel"}
+{"_id":{"$numberInt":"6"},"ProductId":{"$numberInt":"6"},"ProdName":"Motor Coach"}
+{"_id":{"$numberInt":"7"},"ProductId":{"$numberInt":"7"},"ProdName":"Railroad"}
+{"_id":{"$numberInt":"8"},"ProductId":{"$numberInt":"8"},"ProdName":"Tours"}
+{"_id":{"$numberInt":"9"},"ProductId":{"$numberInt":"9"},"ProdName":"Travel Insurance"}
+{"_id":{"$numberInt":"10"},"ProductId":{"$numberInt":"10"},"ProdName":"Yacht/Boat Charters"}

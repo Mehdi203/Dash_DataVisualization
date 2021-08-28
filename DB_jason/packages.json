@@ -1,0 +1,42 @@
+[
+  {
+    "_id": 1,
+    "PackageId": 1,
+    "PkgName": "Caribbean New Year",
+    "PkgStartDate": "2005-12-25T00:00:00.000Z",
+    "PkgEndDate": "2006-01-04T00:00:00.000Z",
+    "PkgDesc": "Cruise the Caribbean & Celebrate the New Year.",
+    "PkgBasePrice": { "$numberDecimal": "4800.0000" },
+    "PkgAgencyCommission": { "$numberDecimal": "400.0000" }
+  },
+  {
+    "_id": 2,
+    "PackageId": 2,
+    "PkgName": "Polynesian Paradise",
+    "PkgStartDate": "2005-12-12T00:00:00.000Z",
+    "PkgEndDate": "2005-12-20T00:00:00.000Z",
+    "PkgDesc": "8 Day All Inclusive Hawaiian Vacation",
+    "PkgBasePrice": { "$numberDecimal": "3000.0000" },
+    "PkgAgencyCommission": { "$numberDecimal": "310.0000" }
+  },
+  {
+    "_id": 3,
+    "PackageId": 3,
+    "PkgName": "Asian Expedition",
+    "PkgStartDate": "2006-05-14T00:00:00.000Z",
+    "PkgEndDate": "2006-05-28T00:00:00.000Z",
+    "PkgDesc": "Airfaire, Hotel and Eco Tour.",
+    "PkgBasePrice": { "$numberDecimal": "2800.0000" },
+    "PkgAgencyCommission": { "$numberDecimal": "300.0000" }
+  },
+  {
+    "_id": 4,
+    "PackageId": 4,
+    "PkgName": "European Vacation",
+    "PkgStartDate": "2005-11-01T00:00:00.000Z",
+    "PkgEndDate": "2005-11-14T00:00:00.000Z",
+    "PkgDesc": "Euro Tour with Rail Pass and Travel Insurance",
+    "PkgBasePrice": { "$numberDecimal": "3000.0000" },
+    "PkgAgencyCommission": { "$numberDecimal": "280.0000" }
+  }
+]

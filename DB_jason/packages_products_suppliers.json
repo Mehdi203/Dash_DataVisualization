@@ -1,0 +1,11 @@
+{"_id":{"PackageId":{"$numberInt":"1"},"ProductSupplierId":{"$numberInt":"65"}},"PackageId":{"$numberInt":"1"},"ProductSupplierId":{"$numberInt":"65"}}
+{"_id":{"PackageId":{"$numberInt":"1"},"ProductSupplierId":{"$numberInt":"93"}},"PackageId":{"$numberInt":"1"},"ProductSupplierId":{"$numberInt":"93"}}
+{"_id":{"PackageId":{"$numberInt":"2"},"ProductSupplierId":{"$numberInt":"32"}},"PackageId":{"$numberInt":"2"},"ProductSupplierId":{"$numberInt":"32"}}
+{"_id":{"PackageId":{"$numberInt":"2"},"ProductSupplierId":{"$numberInt":"33"}},"PackageId":{"$numberInt":"2"},"ProductSupplierId":{"$numberInt":"33"}}
+{"_id":{"PackageId":{"$numberInt":"2"},"ProductSupplierId":{"$numberInt":"90"}},"PackageId":{"$numberInt":"2"},"ProductSupplierId":{"$numberInt":"90"}}
+{"_id":{"PackageId":{"$numberInt":"3"},"ProductSupplierId":{"$numberInt":"28"}},"PackageId":{"$numberInt":"3"},"ProductSupplierId":{"$numberInt":"28"}}
+{"_id":{"PackageId":{"$numberInt":"3"},"ProductSupplierId":{"$numberInt":"82"}},"PackageId":{"$numberInt":"3"},"ProductSupplierId":{"$numberInt":"82"}}
+{"_id":{"PackageId":{"$numberInt":"3"},"ProductSupplierId":{"$numberInt":"87"}},"PackageId":{"$numberInt":"3"},"ProductSupplierId":{"$numberInt":"87"}}
+{"_id":{"PackageId":{"$numberInt":"4"},"ProductSupplierId":{"$numberInt":"9"}},"PackageId":{"$numberInt":"4"},"ProductSupplierId":{"$numberInt":"9"}}
+{"_id":{"PackageId":{"$numberInt":"4"},"ProductSupplierId":{"$numberInt":"65"}},"PackageId":{"$numberInt":"4"},"ProductSupplierId":{"$numberInt":"65"}}
+{"_id":{"PackageId":{"$numberInt":"4"},"ProductSupplierId":{"$numberInt":"84"}},"PackageId":{"$numberInt":"4"},"ProductSupplierId":{"$numberInt":"84"}}

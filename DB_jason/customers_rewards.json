@@ -1,0 +1,122 @@
+[
+  {
+    "_id": { "CustomerId": 104, "RewardId": 1 },
+    "CustomerId": 104,
+    "RewardId": 1,
+    "RwdNumber": "123456 4322"
+  },
+  {
+    "_id": { "CustomerId": 104, "RewardId": 2 },
+    "CustomerId": 104,
+    "RewardId": 2,
+    "RwdNumber": "5435 678 CF"
+  },
+  {
+    "_id": { "CustomerId": 105, "RewardId": 2 },
+    "CustomerId": 105,
+    "RewardId": 2,
+    "RwdNumber": "1435 678 CA"
+  },
+  {
+    "_id": { "CustomerId": 106, "RewardId": 1 },
+    "CustomerId": 106,
+    "RewardId": 1,
+    "RwdNumber": "123456 4322"
+  },
+  {
+    "_id": { "CustomerId": 106, "RewardId": 4 },
+    "CustomerId": 106,
+    "RewardId": 4,
+    "RwdNumber": "4643 23 5435"
+  },
+  {
+    "_id": { "CustomerId": 107, "RewardId": 2 },
+    "CustomerId": 107,
+    "RewardId": 2,
+    "RwdNumber": "5735 638 CF"
+  },
+  {
+    "_id": { "CustomerId": 107, "RewardId": 5 },
+    "CustomerId": 107,
+    "RewardId": 5,
+    "RwdNumber": "2354 4583 63A"
+  },
+  {
+    "_id": { "CustomerId": 108, "RewardId": 1 },
+    "CustomerId": 108,
+    "RewardId": 1,
+    "RwdNumber": "129456 4322"
+  },
+  {
+    "_id": { "CustomerId": 109, "RewardId": 4 },
+    "CustomerId": 109,
+    "RewardId": 4,
+    "RwdNumber": "4343 23 5435"
+  },
+  {
+    "_id": { "CustomerId": 109, "RewardId": 5 },
+    "CustomerId": 109,
+    "RewardId": 5,
+    "RwdNumber": "2784 4553 63F"
+  },
+  {
+    "_id": { "CustomerId": 114, "RewardId": 2 },
+    "CustomerId": 114,
+    "RewardId": 2,
+    "RwdNumber": "5875 678 CG"
+  },
+  {
+    "_id": { "CustomerId": 117, "RewardId": 1 },
+    "CustomerId": 117,
+    "RewardId": 1,
+    "RwdNumber": "123456 4322"
+  },
+  {
+    "_id": { "CustomerId": 118, "RewardId": 3 },
+    "CustomerId": 118,
+    "RewardId": 3,
+    "RwdNumber": "FG2343 785"
+  },
+  {
+    "_id": { "CustomerId": 123, "RewardId": 2 },
+    "CustomerId": 123,
+    "RewardId": 2,
+    "RwdNumber": "5435 678 CF"
+  },
+  {
+    "_id": { "CustomerId": 127, "RewardId": 1 },
+    "CustomerId": 127,
+    "RewardId": 1,
+    "RwdNumber": "113526 4322"
+  },
+  {
+    "_id": { "CustomerId": 138, "RewardId": 1 },
+    "CustomerId": 138,
+    "RewardId": 1,
+    "RwdNumber": "124256 4322"
+  },
+  {
+    "_id": { "CustomerId": 140, "RewardId": 4 },
+    "CustomerId": 140,
+    "RewardId": 4,
+    "RwdNumber": "4343 23 5435"
+  },
+  {
+    "_id": { "CustomerId": 142, "RewardId": 1 },
+    "CustomerId": 142,
+    "RewardId": 1,
+    "RwdNumber": "123456 4322"
+  },
+  {
+    "_id": { "CustomerId": 142, "RewardId": 3 },
+    "CustomerId": 142,
+    "RewardId": 3,
+    "RwdNumber": "FG2343 785"
+  },
+  {
+    "_id": { "CustomerId": 142, "RewardId": 5 },
+    "CustomerId": 142,
+    "RewardId": 5,
+    "RwdNumber": "2254 4553 63Z"
+  }
+]
